@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://images.unsplash.com/photo-1612831662375-295c1003d3b0?w=400",
+    "image": "https://play-lh.googleusercontent.com/1q0vtQ5mLurTVGSRh69cwICDgZo2dUGZTNkmda0CuIthRBAzfkjQ7XzZ8LG7p5IItfap=w240-h480-rw",
     "title": "SnapMaster",
     "companyName": "PixelForge Inc.",
     "description": "A creative photo editor with AI-powered background remover and filters.",
@@ -19,8 +19,8 @@
   },
   {
     "id": 2,
-    "image": "https://images.unsplash.com/photo-1612197527762-8b9a52f3d9e7?w=400",
-    "title": "TaskFlow",
+    "image": "https://digitalfloats.com/wp-content/uploads/2023/10/ChatGPT.jpg",
+    "title": "ChatGpt",
     "companyName": "NextStep Labs",
     "description": "Boost your productivity with AI task management and reminders.",
     "size": 32,
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c44367f?w=400",
+    "image": "https://massagegunadvice.com/wp-content/uploads/2021/03/fitpulse-massage-gun-review.jpg",
     "title": "FitPulse",
     "companyName": "VitalEdge",
     "description": "Track workouts, calories, and heart rate with precision analytics.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://images.unsplash.com/photo-1609943199990-0c9a8b63b2e1?w=400",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2gZO5-6TlUsrs8NvBShb5T3XeBZU5S2veg&s",
     "title": "SafeBank",
     "companyName": "FinTrust Systems",
     "description": "Your secure digital wallet with real-time spending insights.",
@@ -109,8 +109,8 @@
   },
   {
     "id": 7,
-    "image": "https://images.unsplash.com/photo-1607083202792-9b87ef3a72ec?w=400",
-    "title": "LangHero",
+    "image": "https://play-lh.googleusercontent.com/-c9_MRUGGc7rkD9WZGPDINPVLB47zgClJP7ow5xa26a6qwJPk4IthyApU_UGPmrMIYU",
+    "title": "Bangla Dectionary",
     "companyName": "Learnify Co.",
     "description": "Master any language with AI-driven lessons and speech recognition.",
     "size": 54,
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://images.unsplash.com/photo-1606813902892-7a6b7c879b32?w=400",
+    "image": "https://play-lh.googleusercontent.com/rWWb2gQZNBmL2wBqHX4fTHmLw0H3nlxblIW4JMcQgYdEG8SX5blGfx06-NG5va2Ke8cj",
     "title": "WeatherPro",
     "companyName": "SkyCast Technologies",
     "description": "Accurate forecasts, real-time radar maps, and air quality tracking.",
