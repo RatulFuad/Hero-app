@@ -44,24 +44,24 @@ const Banner = () => {
 {/* trusrd by million */}
 
 <div className='lg:w-full h-[410px] bg-gradient-to-tr from-[#632EE3] to-[#9F62F2]'>
-    <h1 className='text-center text-[75px] font-bold text-white '>Trusted by Millions, Built for You</h1>
+    <h1 className='text-center text-3xl lg:text-[75px] font-bold text-white '>Trusted by Millions, Built for You</h1>
 
-   <div className='flex justify-center items-center gap-40 mt-14'>
+   <div className='flex justify-center items-center gap-5 lg:gap-40 mt-14'>
      <div className='text-center text-white'>
         <p>Total Downloads</p>
-        <h1 className='text-[60px] font-bold'> 29.6M</h1>
+        <h1 className='text-[25px] lg:text-[60px] font-bold'> 29.6M</h1>
         <p>21% more than last month</p>
     </div>
 
     <div className='text-center text-white'>
         <p>Total Reviews</p>
-        <h1  className='text-[60px] font-bold'>906K</h1>
+        <h1  className='text-[25px] lg:text-[60px] font-bold'>906K</h1>
         <p>46% more than last month</p>
     </div>
 
     <div className='text-center text-white'>
         <p>Active Apps</p>
-        <h1  className='text-[60px] font-bold'>132+</h1>
+        <h1  className='text-[25px] lg:text-[60px] font-bold'>132+</h1>
         <p>31 more will Launch</p>
     </div>
 
