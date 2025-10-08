@@ -50,21 +50,7 @@ const Navbar = () => {
 
 
 
-{/* foote */}
 
-{/* <div className='w-full h-[20px] bg-amber-200'>
-
-    <div>
-        <h1>Hero.io</h1>
-    </div>
-        <h1>social links</h1>
-        <div>
-
-        </div>
-    <div>
-
-    </div>
-</div> */}
 
 
 
