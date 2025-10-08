@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import heropic from '../assets/assets/logo.png'
 import { FaGithub } from "react-icons/fa";
+import { NavLink } from "react-router-dom";
+
 
 
 
@@ -37,9 +39,15 @@ const Navbar = () => {
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-       <li><Link to="/">Home</Link></li>
-         <li><Link to="/apps">Apps</Link></li>
-         <li><Link to="/Installation">Installation</Link></li>
+       <li><NavLink to="/" className={({isActive})=>
+    isActive ? "text-purple-600":""
+    }>Home</NavLink></li>
+         <li><NavLink to="/apps" className={({isActive})=>
+    isActive ? "text-purple-600":""
+    }>Apps</NavLink></li>
+         <li><NavLink to="/Installation" className={({isActive})=>
+    isActive ? "text-purple-600":""
+    }>Installation</NavLink></li>
     </ul>
   </div>
   <div className="navbar-end">

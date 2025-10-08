@@ -82,6 +82,7 @@ const Banner = () => {
     <div
       key={trending.id}
       className="card bg-white shadow-lg rounded-xl "
+      onClick={()=> navigation(`/app/${trending.id}`)}
     >
       <figure className="overflow-hidden">
         <img
