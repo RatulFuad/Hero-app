@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1612831662375-295c1003d3b0?w=400",
+    "title": "SnapMaster",
+    "companyName": "PixelForge Inc.",
+    "description": "A creative photo editor with AI-powered background remover and filters.",
+    "size": 48,
+    "reviews": 12000,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 7370 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1612197527762-8b9a52f3d9e7?w=400",
+    "title": "TaskFlow",
+    "companyName": "NextStep Labs",
+    "description": "Boost your productivity with AI task management and reminders.",
+    "size": 32,
+    "reviews": 8700,
+    "ratingAvg": 4.4,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4540 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c44367f?w=400",
+    "title": "FitPulse",
+    "companyName": "VitalEdge",
+    "description": "Track workouts, calories, and heart rate with precision analytics.",
+    "size": 58,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 10400 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?w=400",
+    "title": "NoteX",
+    "companyName": "MindSync Ltd.",
+    "description": "A lightweight note-taking app with cloud sync and dark mode.",
+    "size": 26,
+    "reviews": 6400,
+    "ratingAvg": 4.3,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400",
+    "title": "SoundWave",
+    "companyName": "EchoVerse",
+    "description": "Stream millions of songs and podcasts with personalized playlists.",
+    "size": 72,
+    "reviews": 48000,
+    "ratingAvg": 4.7,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 7200 },
+      { "name": "5 star", "count": 37800 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1609943199990-0c9a8b63b2e1?w=400",
+    "title": "SafeBank",
+    "companyName": "FinTrust Systems",
+    "description": "Your secure digital wallet with real-time spending insights.",
+    "size": 40,
+    "reviews": 9000,
+    "ratingAvg": 4.5,
+    "downloads": 1600000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 5250 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1607083202792-9b87ef3a72ec?w=400",
+    "title": "LangHero",
+    "companyName": "Learnify Co.",
+    "description": "Master any language with AI-driven lessons and speech recognition.",
+    "size": 54,
+    "reviews": 13500,
+    "ratingAvg": 4.9,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 9450 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1606813902892-7a6b7c879b32?w=400",
+    "title": "WeatherPro",
+    "companyName": "SkyCast Technologies",
+    "description": "Accurate forecasts, real-time radar maps, and air quality tracking.",
+    "size": 35,
+    "reviews": 11200,
+    "ratingAvg": 4.4,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 6160 }
+    ]
+  }
+]
