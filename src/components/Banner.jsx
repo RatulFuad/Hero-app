@@ -19,6 +19,8 @@ const Banner = () => {
         .then(data=> setTApp(data))
 
     }, []);
+
+;
     return (
         <div>
             <div>

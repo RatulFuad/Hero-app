@@ -181,8 +181,8 @@
   },
   {
     "id": 11,
-    "image": "https://images.unsplash.com/photo-1603791452906-b8f31ffb4b39?w=400",
-    "title": "CookMate",
+    "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/2024-spotify-brand-assets-media-kit.jpg",
+    "title": "Spotify",
     "companyName": "KitchenVerse",
     "description": "Find and share recipes with calorie tracking and grocery lists.",
     "size": 45,
@@ -199,8 +199,8 @@
   },
   {
     "id": 12,
-    "image": "https://images.unsplash.com/photo-1555617983-ccdfef7e0e1b?w=400",
-    "title": "MindSpace",
+    "image": "https://www.swadeshpratidin.com/2024/01/24/VP_1706094096.jpg",
+    "title": "Bkash",
     "companyName": "FocusMind",
     "description": "Meditation and sleep sounds app with AI-guided relaxation.",
     "size": 60,
@@ -217,8 +217,8 @@
   },
   {
     "id": 13,
-    "image": "https://images.unsplash.com/photo-1601933470928-c1f76c3e90b7?w=400",
-    "title": "TravelGo",
+    "image": "https://play-lh.googleusercontent.com/EQC9NtbtRvsNcU1r_5Dr8pWm3hPfN3OjGjzkOqzCEPDJvqBGKyfU9-a2ajNtcrIg1rs",
+    "title": "Nogod",
     "companyName": "WanderHub",
     "description": "Book flights, hotels, and tours with real-time price tracking.",
     "size": 67,
@@ -235,8 +235,8 @@
   },
   {
     "id": 14,
-    "image": "https://images.unsplash.com/photo-1590608897129-79da98d1591d?w=400",
-    "title": "CodeBuddy",
+    "image": "https://play-lh.googleusercontent.com/sDY6YSDobbm_rX-aozinIX5tVYBSea1nAyXYI4TJlije2_AF5_5aG3iAS7nlrgo0lk8",
+    "title": "Rocket",
     "companyName": "DevNest",
     "description": "Learn to code interactively with real-time feedback and AI hints.",
     "size": 52,
@@ -280,6 +280,7 @@
     "ratingAvg": 4.4,
     "downloads": 1400000,
     "ratings": [
+    
       { "name": "1 star", "count": 300 },
       { "name": "2 star", "count": 450 },
       { "name": "3 star", "count": 950 },

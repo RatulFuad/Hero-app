@@ -1,8 +1,8 @@
 import React from 'react';
 import { Outlet } from 'react-router';
-import Navbar from '../components/navbar';
+import Navbar from '../components/Navbar';
 import Banner from '../components/Banner';
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 
 const Root = () => {
     return (
