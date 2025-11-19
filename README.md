@@ -1,16 +1,69 @@
-# React + Vite
+# Hero App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Hero App** is a modern React application built with Vite that showcases multiple applications’ details in a single platform.  
+Users can explore, learn, and interact with a variety of applications and their features seamlessly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo  
+🔗 **Live Website:** [Hero App Live](https://iridescent-frangipane-33ba2b.netlify.app/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🚀 Overview  
+Hero App provides a consolidated platform where users can explore multiple applications’ details.  
+It is ideal for developers, product managers, or users who want to quickly view app features, descriptions, and links in one place.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack  
+This project is built using:
+
+- **React.js** – For building interactive UI  
+- **Vite** – Fast development environment with HMR (Hot Module Replacement)  
+- **Tailwind CSS** – Modern and responsive styling  
+- **React Router** – For routing between pages  
+
+---
+
+## 🔌 Plugins & ESLint  
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react) – Uses Babel for Fast Refresh  
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) – Uses SWC for Fast Refresh  
+
+### React Compiler
+The React Compiler is not enabled on this template because of its impact on development & build performance.  
+To enable it, see [React Compiler Installation](https://react.dev/learn/react-compiler/installation).
+
+### Expanding the ESLint Configuration
+For production apps, it is recommended to use TypeScript with type-aware lint rules enabled.  
+Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for integrating TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## ⭐ Key Features  
+
+### ✅ Multi-Application Overview  
+- Explore multiple apps and their details in one place.
+
+### ✅ App Descriptions  
+- Each app contains descriptions, features, and relevant links.
+
+### ✅ Interactive UI  
+- User-friendly and responsive interface with Tailwind CSS.
+
+### ✅ Fast Performance  
+- Powered by React + Vite for blazing-fast load and HMR.
+
+---
+
+## 📦 Dependencies  
+
+### **Main Dependencies**
+```json
+"react": "^18.x",
+"react-dom": "^18.x",
+"tailwindcss": "^3.x",
+"postcss": "^8.x",
+"autoprefixer": "^10.x",
+"react-router-dom": "^6.x"
